@@ -84,6 +84,6 @@ String? appLogoUrl;
 ///URL
 ///// const BASE_URL = "https://masterstudy.stylemixthemes.com/academy";
 // const BASE_URL = "https://masterstudy.stylemixstage.com/academy";
-// const BASE_URL = "https://siip.school";
+// const BASE_URL = "https://campuzify.com";
 const String baseUrl = "https://ms.stylemix.biz";
 const String apiEndpoint = baseUrl + "/wp-json/ms_lms/v2/";
