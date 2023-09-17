@@ -137,6 +137,7 @@ void main() async {
 
   // Firebase
   await Firebase.initializeApp(
+    name: 'campuzify-617a8',
     options: DefaultFirebaseOptions.currentPlatform,
   );
 
